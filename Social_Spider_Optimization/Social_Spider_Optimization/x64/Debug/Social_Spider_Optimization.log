@@ -1,0 +1,33 @@
+﻿  func.cpp
+C:\Users\odie2\Documents\IA\Proyecto Final IA\Social_Spider_Optimization\Social_Spider_Optimization\Social_Spider_Optimization\func.cpp(16,17): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\odie2\Documents\IA\Proyecto Final IA\Social_Spider_Optimization\Social_Spider_Optimization\Social_Spider_Optimization\func.cpp(17,17): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\odie2\Documents\IA\Proyecto Final IA\Social_Spider_Optimization\Social_Spider_Optimization\Social_Spider_Optimization\func.cpp(18,57): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\odie2\Documents\IA\Proyecto Final IA\Social_Spider_Optimization\Social_Spider_Optimization\Social_Spider_Optimization\func.cpp(29,44): warning C4244: '*=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\odie2\Documents\IA\Proyecto Final IA\Social_Spider_Optimization\Social_Spider_Optimization\Social_Spider_Optimization\func.cpp(31,22): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\odie2\Documents\IA\Proyecto Final IA\Social_Spider_Optimization\Social_Spider_Optimization\Social_Spider_Optimization\func.cpp(37,21): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\odie2\Documents\IA\Proyecto Final IA\Social_Spider_Optimization\Social_Spider_Optimization\Social_Spider_Optimization\func.cpp(40,15): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\odie2\Documents\IA\Proyecto Final IA\Social_Spider_Optimization\Social_Spider_Optimization\Social_Spider_Optimization\func.cpp(43,78): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\odie2\Documents\IA\Proyecto Final IA\Social_Spider_Optimization\Social_Spider_Optimization\Social_Spider_Optimization\func.cpp(55,65): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\odie2\Documents\IA\Proyecto Final IA\Social_Spider_Optimization\Social_Spider_Optimization\Social_Spider_Optimization\func.cpp(66,32): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+  Source.cpp
+  SSA.cpp
+C:\Users\odie2\Documents\IA\Proyecto Final IA\Social_Spider_Optimization\Social_Spider_Optimization\Social_Spider_Optimization\SSA.cpp(6,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\odie2\Documents\IA\Proyecto Final IA\Social_Spider_Optimization\Social_Spider_Optimization\Social_Spider_Optimization\SSA.cpp(7,40): warning C4244: '=': conversión de 'double' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\odie2\Documents\IA\Proyecto Final IA\Social_Spider_Optimization\Social_Spider_Optimization\Social_Spider_Optimization\SSA.cpp(79,55): warning C4244: '+=': conversión de '_Ty' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=float
+          ]
+C:\Users\odie2\Documents\IA\Proyecto Final IA\Social_Spider_Optimization\Social_Spider_Optimization\Social_Spider_Optimization\SSA.cpp(87,48): warning C4311: 'conversión de tipo': truncamiento de puntero de 'SSA *' a 'int'
+C:\Users\odie2\Documents\IA\Proyecto Final IA\Social_Spider_Optimization\Social_Spider_Optimization\Social_Spider_Optimization\SSA.cpp(87,48): warning C4302: 'conversión de tipo': truncamiento de 'SSA *' a 'int'
+C:\Users\odie2\Documents\IA\Proyecto Final IA\Social_Spider_Optimization\Social_Spider_Optimization\Social_Spider_Optimization\SSA.cpp(153,23): warning C4018: '<': no coinciden signed/unsigned
+  Generando código...
+  Social_Spider_Optimization.vcxproj -> C:\Users\odie2\Documents\IA\Proyecto Final IA\Social_Spider_Optimization\Social_Spider_Optimization\x64\Debug\Social_Spider_Optimization.exe
